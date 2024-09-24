@@ -1,7 +1,8 @@
 #include <stdio.h> 
  
  int main(){
-     
+     printf("super trunfo card game \n");
+
      printf("estado:[A] \n");
      
      printf("cidade:[A01] \n");
