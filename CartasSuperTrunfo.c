@@ -220,7 +220,7 @@
      printf("População:[89999] \n");
      printf("Área:[999741] \n");
      printf("PIB:[35005145] \n");
-     printf("Número de pontos turísticos:[122] \n");
+     printf("Número de pontos turísticos:[132] \n");
     
     
     return 0;
