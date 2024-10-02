@@ -1,33 +1,19 @@
-#include  <stdio.h>
+#include <stdio.h>
 
-int main(){
-    int estado, cidade = 'a', a1;
-    char cidade = 'a1';
-    float area = 10.173;
-    float pib = 135.111;
-    
-    printf("estado: %c\n", estado);
-    
-    printf("cidade: %c\n", cidade); 
-    
-    printf("area: %f\n", area)
-    
-    printf("pib: %f\n", pib);
-    return 0;
-}
-int main(){    
-    int estado, cidade = 'b', b1;
-    char cidade = 'a1';
-    float area = 10.173;
-    float pib = 135.111;
-    
-    printf("estado: %c\n", estado);
-    
-    printf("cidade: %c\n", cidade); 
-    
-    printf("area: %f\n", area)
-    
-    printf("pib: %f\n", pib);
+int main() {
+  int cidade1;
+  int cidade2;
 
+  cidade1 = 20;
+  cidade2 = 22;
 
+  
+  
+  if (cidade1 > cidade2) {
+    printf("cidade1 é maior!\n");
+  } else {
+    printf("cidade1 é menor.\n");
+  }
+
+  return 0;
 }
